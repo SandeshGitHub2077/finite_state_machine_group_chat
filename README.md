@@ -20,7 +20,15 @@ Agents communicate in turns to count chocolates, team leaders summarize counts, 
 ---
 
 ## 🗂 Project Structure
-<pre> finite_state_machine_group_chat/ ├── main.ipynb ├── .env ├── .gitignore ├── requirements.txt ├── README.md └── image.png </pre>
+```
+finite_state_machine_group_chat/
+├── main.ipynb
+├── .env
+├── .gitignore
+├── requirements.txt
+├── README.md
+└── image.png
+```
 
 ---
 
