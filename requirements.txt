@@ -1,0 +1,6 @@
+autogen-agentchat[graph]~=0.2.11
+matplotlib
+networkx
+openai
+python-dotenv
+flaml
